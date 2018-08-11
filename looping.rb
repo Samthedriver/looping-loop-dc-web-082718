@@ -1,10 +1,9 @@
-count = 1
+
 def looping
+  loop do
+    "Wingardium Leviosa"
+  end
   
-  puts count
-  if count > 10
-    break
-  end 
 	#your code here
 end
 
